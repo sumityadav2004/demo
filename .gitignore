@@ -1,1 +1,1 @@
-.log ,.index, .screenshot, .report
+*.log ,*.index, *.screenshot, *.report
